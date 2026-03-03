@@ -24,7 +24,7 @@ The codebase is structured for scalability and researcher collaboration:
 * `plotters.py`: A visualization suite for temporal and spatial data diagnostics.
 
 ## 📊 Analytics Demo: Subsurface Stress Evolution
-The following figure demonstrates the framework's capability by processing **4.5 TB** of continuous DAS data within 20 minutes. It highlights the extraction of the **Slow Drift Component (< 0.01 Hz)**, revealing long-term strain accumulation and quasi-static deformation patterns.
+The following figure demonstrates the framework's capability by processing **4.5 TB** of continuous DAS data in 15 minutes. It highlights the extraction of the **Slow Drift Component (< 0.01 Hz)**, revealing long-term strain accumulation and quasi-static deformation patterns.
 
 ![LFDAS Analysis Results](./LFDAS_demo.png)
 *Figure: LFDAS heatmap revealing spatiotemporal strain signatures over a 30-hour monitoring period.*
