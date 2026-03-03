@@ -7,6 +7,11 @@
 ## 🚀 Overview
 **OpenDAS-Stream** is a high-performance computational framework designed to transform 100-Terabyte-scale Distributed Acoustic Sensing (DAS) data into actionable geohazard insights. Developed as part of the **ICDS Rising Researcher** initiative, this engine leverages GPU-accelerated stream processing to handle continuous, high-velocity acoustic data from deep subsurface environments.
 
+## 📊 Analytics Demo: Subsurface Stress Evolution
+The following figure demonstrates the framework's capability by processing **4.5 TB** of continuous DAS data. It highlights the extraction of the **Slow Drift Component (< 0.01 Hz)**, revealing long-term strain accumulation and quasi-static deformation patterns.
+
+![LFDAS Analysis Results](./LFDAS_demo.png)
+*Figure: LFDAS heatmap revealing spatiotemporal strain signatures over a 30-hour monitoring period.*
 Unlike traditional event-based analysis, this platform enables near-real-time monitoring of stress redistribution, induced seismicity, and geohazard precursors in complex geologic systems.
 
 ## ✨ Key Features
