@@ -27,8 +27,8 @@ The codebase is structured for scalability and researcher collaboration:
 The following figure demonstrates the framework's capability by processing **4.5 TB** of continuous DAS data in 15 minutes. It highlights the extraction of the **Slow Drift Component (< 0.01 Hz)**, revealing long-term strain accumulation and quasi-static deformation patterns.
 
 ![LFDAS Analysis Results](./LFDAS_demo.png)
-*Figure: LFDAS heatmap revealing spatiotemporal strain signatures over a 30-hour monitoring period.*
-Unlike traditional event-based analysis, this platform enables near-real-time monitoring of stress redistribution, induced seismicity, and geohazard precursors in complex geologic systems.
+*Figure: High-fidelity LFDAS heatmap capturing spatiotemporal strain evolution during a 30-hour cement hydration and cooling sequence in a horizontal wellbore.*
+Unlike traditional event-based analysis, this platform aims to enable near-real-time monitoring of stress redistribution, induced seismicity, and geohazard precursors in complex geologic systems.
   
 
 ## 📊 Quick Start
